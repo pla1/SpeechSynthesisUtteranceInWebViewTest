@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">SpeechSynthesisUtteranceInWebViewTest</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">Speech Synthesis Utterance in WebView Test</string>
+    <string name="title_activity_main">Speech Synthesis Utterance in WebView Test</string>
 </resources>
